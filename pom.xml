@@ -18,7 +18,7 @@
         <module>design</module>
         <module>scloud</module>
         <module>pageHelper</module>
-        <module>else</module>
+        <module>offer</module>
     </modules>
 
 </project>
